@@ -22,7 +22,7 @@ Only two years of data was available for analysis.  Based upon the analysis of t
 
 ### Analysis of execution times of code
 
-Refactoring code is the process of modifying existing code without changing the end product.  In our case, code was refactored to improve the efficiency of the script thus reducing run time.  Refactoring the code led to dramatic improvements in the processing time.
+According to Wikipedia, refactoring code is the process of modifying existing code without changing the end product.  In our case, code was refactored to improve the efficiency of the script thus reducing run time.  Refactoring the code led to dramatic improvements in the processing time.
 
 ![Script_Performance_Table](https://user-images.githubusercontent.com/82730954/117589303-4ddd8400-b0ee-11eb-9586-98e3c6c9debc.png)
 
